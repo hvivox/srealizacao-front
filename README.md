@@ -16,7 +16,7 @@ o [link de acesso disponibilizado pelo autor](https://produtividadea.com.br/wp-c
 | :fire: Base Projeto   | (https://produtividadea.com.br/wp-content/uploads/2015/11/FolhadeProdutividadeA.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/hvivox/srealizacao-front/blob/main/SISTEMA_VUEJS.gif?raw=true#vitrinedev)
+![](https://github.com/hvivox/srealizacao-front/blob/main/capa-proejto.png?raw=true#vitrinedev)
 
 <!-- ############################################################################## --> 
 
