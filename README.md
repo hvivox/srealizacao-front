@@ -8,12 +8,12 @@ Este projeto surgiu a partir do curso Academia da Produtividade, que usa como fe
 folha da produtividade, segue
 o [link de acesso disponibilizado pelo autor](https://produtividadea.com.br/wp-content/uploads/2015/11/FolhadeProdutividadeA.pdf)
 
-| :placard: Vitrine.Dev |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| :sparkles: Nome       | **Srealizacao-front**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| :label: Tecnologias   | Vue.js: ( O framework JavaScript utilizado para construir a interface de usuário). Vue Router: (Plugin para gerenciamento de rotas na aplicação Vue.js). Vuex: (Biblioteca para gerenciamento de estado global na aplicação Vue.js). Axios: (Cliente HTTP baseado em Promises, utilizado para fazer requisições à API) . Vuetify: (Framework de componentes para Vue.js com Material Design). Vue Toasted: (Plugin para exibir notificações em formato de toast). Vue Moment: (Plugin para formatação de datas e horas utilizando Moment.js). Vue Spinners: (Componentes animados para indicar o carregamento de dados). |
-| :rocket: URL          | https://localhost/srealizacao                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| :fire: Base Projeto   | (https://produtividadea.com.br/wp-content/uploads/2015/11/FolhadeProdutividadeA.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| :placard: Vitrine.Dev |                                                                                            |
+|-----------------------|--------------------------------------------------------------------------------------------|
+| :sparkles: Nome       | **Srealizacao-front**                                                                      |
+| :label: Tecnologias   | Vue.js, Vue Router, Vuex, Axios, Vuetify, Vue Toasted, Vue Moment, Vue Spinners, admin Lte |
+| :rocket: URL          | https://localhost/srealizacao                                                              |
+| :fire: Base Projeto   | (https://produtividadea.com.br/wp-content/uploads/2015/11/FolhadeProdutividadeA.pdf)       |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/hvivox/srealizacao-front/blob/main/capa-proejto.png?raw=true#vitrinedev)
@@ -39,6 +39,16 @@ O código-fonte do projeto está organizado da seguinte forma:
     - `/store`: Contém o gerenciamento de estado global da aplicação.
     - `/services`: Contém os serviços para comunicação com a API.
 - `/public`: Contém os arquivos públicos do projeto.
+
+
+## Descrição dos plugins do projeto
+* Vue.js: ( O framework JavaScript utilizado para construir a interface de usuário). 
+* Vue Router: (Plugin para gerenciamento de rotas na aplicação Vue.js). 
+* Vuex: (Biblioteca para gerenciamento de estado global na aplicação Vue.js). 
+* Axios: (Cliente HTTP baseado em Promises, utilizado para fazer requisições à API). 
+* Vuetify: (Framework de componentes para Vue.js com Material Design). 
+* Vue Toasted: (Plugin para exibir notificações em formato de toast). 
+* Vue Spinners: (Componentes animados para indicar o carregamento de dados).
 
 ## Configuração do Ambiente de Desenvolvimento
 1. Clone este repositório: `git clone https://github.com/hvivox/srealizacao-front.git`
